@@ -12,10 +12,10 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "9.0"
   s.ios.deployment_target = '9.0'
 
-  s.source       = { :git => package['repository']['url'], :tag => "#{s.version}" }
+  s.source       = { :git => package['repository']['url'] }
   s.source_files  = "ios/**/*.{h,m}"
 
   s.dependency 'React'
-  s.dependency 'JWT', '3.0.0-beta.12'
+  s.dependency 'Plotline'
 end
 

@@ -1,6 +1,6 @@
 {
-  "name": "react-native-pure-jwt",
-  "version": "3.0.1",
+  "name": "react-native-pure-jwt-lulu2022",
+  "version": "1.0.0",
   "description": "React Native Pure JWT implementation",
   "main": "js/index.js",
   "typings": "js/index.d.ts",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zaguiini/react-native-pure-jwt.git"
+    "url": "https://github.com/plotline-insights/react-native-pure-jwt-lulu2022.git"
   },
   "peerDependencies": {
     "react-native": ">=0.41.2"
